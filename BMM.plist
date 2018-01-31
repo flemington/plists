@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://27.151.112.180:8079/soft/ios/bmm/bmm-test.ipa</string>
+					<string>http://27.151.112.180:8079/soft/ios/bmm/test/bmm-test.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
